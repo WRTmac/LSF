@@ -5,3 +5,4 @@ LSF  lsf
 88888888888888888888
 
 9999999999999
+Creating a new branch is quick AND simple.
